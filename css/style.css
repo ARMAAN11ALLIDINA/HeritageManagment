@@ -1,0 +1,24 @@
+body{
+    min-height: 100%;
+    text-wrap: balance;
+    background-image: url('../images/d5.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    margin: 0;
+    color: white;
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 10pt;
+}
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 25px;
+}
+.vision{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
