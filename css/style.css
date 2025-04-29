@@ -10,14 +10,13 @@ body{
     font-family: 'Gill Sans', sans-serif;
     font-size: 10pt;
 }
-header{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
 
 h2{
     font-size: 25px;
+}
+.a{
+    display: grid;
+    place-items: center;
 }
 .vision{
     display: grid;
